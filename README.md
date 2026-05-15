@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Nethaji Gudla
 
-<!--
-**nethajigudla1922/nethajigudla1922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Developer | Full Stack Web Developer  
+💻 Django • Flask • React • REST APIs  
+☁️ AWS Cloud Basics  
+📚 Continuous Learner | Open to Work  
 
-Here are some ideas to get you started:
+## 📫 How to Reach Me
+- 📧 Email: nethaji18ee45@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/nethaji-gudla-00280237b/
+- 💻 GitHub: https://github.com/nethajigudla1922
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Django](https://img.shields.io/badge/Django-green?logo=django)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+
+## 📊 GitHub Stats
+![Nethaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethajigudla1922&show_icons=true)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=nethajigudla1922)

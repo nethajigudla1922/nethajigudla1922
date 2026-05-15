@@ -20,8 +20,6 @@
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 
-## 📊 GitHub Stats
-![Nethaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethajigudla1922&show_icons=true)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=nethajigudla1922)
+
+
